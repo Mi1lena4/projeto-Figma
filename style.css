@@ -1,0 +1,430 @@
+body {
+    background: #00030C;
+}
+
+.desktop {  
+    width: 1440;
+    height: 3435;
+    opacity: 1;
+    background: #00030C;
+}
+
+/* background */
+
+.fundo {
+    position: absolute;
+    width: 1440;
+    height: 680;
+    top: 9px;
+    left: 29px;
+    opacity: 1;
+
+}
+
+/* grup 28 */
+
+.titulo-topo {
+    position: absolute;
+    top: 125px;
+    left: 40px;
+    width: 588px;
+    height: 102px;
+    opacity: 1;
+    font-family: Inter;
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.combo {
+    position: absolute;
+    width: 348;
+    height: 104;
+    top: 245px;
+    left: 164px;
+    opacity: 1;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+
+.botoes {
+    position: absolute;
+    top: 403px;
+    left: 78px;
+    width: 512px;
+    height: 128px;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
+
+.botao-azul {
+    width: 512;
+    height: 56;
+    opacity: 1;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 16px;
+    background: #167BF7;
+    width: 480;
+    height: 24;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+
+}
+
+.botao-branco {
+    width: 512px;
+    height: 56px;
+    opacity: 1;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 16px;
+    border-width: 1px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+
+.aviso {
+    position: absolute;
+    top: 541px;
+    left: 147px;
+    width: 380px;
+    height: 15px;
+    opacity: 1;
+    white-space: nowrap;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #C0C0C0;
+}
+
+/* plataformas */
+
+.plataformas {
+    position: absolute;
+    width: 498;
+    height: 560;
+    opacity: 1;
+    top: 775px;
+    left: 165px;    
+}
+
+/* grup 19 */
+
+.titulo-assista {
+    position: absolute;
+    width: 588;
+    height: 58;
+    opacity: 1;
+    top: 998px;
+    left: 732px;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #F9F9F9;
+
+
+
+}
+
+.texto-assista {
+    position: absolute;
+    width: 588;
+    height: 48;
+    opacity: 0.8;
+    top: 1064px;
+    left: 732px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #F9F9F9;
+}
+
+/* group 25 */
+
+.texto-combo {
+    position: absolute;
+    top: 1584px;
+    left: 120px;
+    width: 588px;
+    height: 72px;
+    opacity: 0.8;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #F9F9F9;
+}
+
+.botao-combo {
+    position: absolute;
+    width: 162.67999267578125;
+    height: 56;
+    opacity: 1;
+    top: 1672px;
+    left: 120px;
+    border-radius: 8px;
+    gap: 16px;
+    padding: 16px;
+    background: #167BF7;
+    width: 134;
+    height: 24;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+
+}
+
+/* telas */
+
+.telas {
+    position: absolute;
+    width: 447.94464111328125;
+    height: 241.99307250976562;
+    opacity: 1;
+    top: 1582.97px;
+    left: 826.06px;
+    border-radius: 16px;
+
+
+
+}
+
+/* notebook */
+
+.notebook {
+    position: absolute;
+    width: 547;
+    height: 324;
+    opacity: 1;
+    top: 2051px;
+    left: 141px;
+
+}
+
+/*group 22*/
+
+.titulo-baixe {
+    position: absolute;
+    width: 588;
+    height: 58;
+    top: 2156px;
+    left: 732px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+
+
+}
+
+.texto-baixe {
+    position: absolute;
+    width: 588;
+    height: 48;
+    top: 2222px;
+    left: 732px;
+    opacity: 0.8;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #F9F9F9;
+}
+
+/* grup 27 */
+
+.titulo-dispositivos {
+    position: absolute;
+    width: 985;
+    height: 58;
+    top: 2639px;
+    left: 228px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.tv {
+    position: absolute;
+    width: 339;
+    height: 192;
+    top: 2737px;
+    left: 155px;
+    opacity: 1;
+
+}
+
+.computador {
+    position: absolute;
+    width: 339;
+    height: 192;
+    top: 2737px;
+    left: 563px;
+    opacity: 1;
+
+}
+
+.celular {
+    position: absolute;
+    width: 339;
+    height: 192;
+    top: 2737px;
+    left: 970px;
+    opacity: 1;
+
+}
+
+.nome-tv {
+    position: absolute;
+    width: 46;
+    height: 38;
+    top: 2945px;
+    left: 301px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.nome-computador {
+    position: absolute;
+    width: 234;
+    height: 38;
+    top: 2945px;
+    left: 615px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.nome-celular {
+    position: absolute;
+    width: 292;
+    height: 38;
+    top: 2945px;
+    left: 994px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* grup 26 */
+
+.logo {
+    position: absolute;
+    width: 156;
+    height: 39;
+    top: 3127px;
+    left: 615px;
+    opacity: 1;
+    color: #FFFFFF;
+
+}
+
+.opcoes {
+    position: absolute;
+    top: 3203.99px;
+    left: 158px;
+    width: 1124px;
+    height: 24px;
+    opacity: 1;         
+    gap: 16px;
+    white-space: nowrap;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.direitos {
+    position: absolute;
+    width: 1200;
+    height: 84;
+    top: 3251.99px;
+    left: 120px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color   : #C0C0C0;
+
+}
